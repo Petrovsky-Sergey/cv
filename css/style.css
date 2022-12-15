@@ -68,20 +68,20 @@ a:visited{
 }
 
 .bg-yellow{
-   background: #faf18d;
+   background: #f0ecc1;
 }
 
 .bg-green{
-   background: #aaf2b0;
+   background: #c7f5cb;
 }
 
 .bg-red{
-   background: #f1adad;
+   background: #f4d6d6;
 }
 
 .png-logo{
    width: 100px;
-   padding-left: 65px;   
+   padding: auto;   
 }
 
 
