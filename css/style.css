@@ -120,6 +120,7 @@ a:visited{
 .link-list{
    list-style: none;
    padding: 0;
+   width: 50px;
 }
 
 .link-list li{
