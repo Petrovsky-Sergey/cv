@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 body{
-   background-color: #f1f1f1;
+   background-color: #e7e7e7;
    color: #0f141e;
    font-size: 16px;
    font-weight: normal;
@@ -68,15 +68,15 @@ a:visited{
 }
 
 .bg-yellow{
-   background: #f0ecc1;
+   background: #cdffcc;
 }
 
 .bg-green{
-   background: #c7f5cb;
+   background: #cdffcc;
 }
 
 .bg-red{
-   background: #f4d6d6;
+   background: #cdffcc;
 }
 
 .png-logo{
